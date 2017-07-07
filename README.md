@@ -1,6 +1,6 @@
 # react-tic-tac-toe
 
-This repository demonstrates the simple tic tac toe game using react
+This repository demonstrates the simple tic tac toe game using react.
 
 
 ## Prerequisites
@@ -21,7 +21,7 @@ cd react-tic-tac-toe
 ### Running the Application during Development
 
 * Run `npm start`.
-* Navigate your browser to [http://localhost:8000/](http://localhost:8000/) to see the application running.
+* Navigate your browser to [http://localhost:8100/](http://localhost:8100/) to see the application running.
 
 
 ## Workings of the Application
@@ -34,7 +34,7 @@ cd react-tic-tac-toe
 
 ## Resources
 
-For more information on React.js please check out [react.js][reactjs].
+For more information on React.js please check out [react.js][reactjs]
 
 [git-home]: https://git-scm.com
 [git-setup]: https://help.github.com/articles/set-up-git/
