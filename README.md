@@ -1,6 +1,4 @@
 # react-tic-tac-toe
-This is the 
-
 
 This repository demonstrates the simple tic tac toe game using react
 
